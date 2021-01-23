@@ -1,1 +1,1 @@
-Hello World!
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=g0rdan)](https://github.com/g0rdan/github-readme-stats)
